@@ -1,0 +1,11 @@
+baseURL = "https://example.org/"
+languageCode = "en-us"
+title = "melmoth's wunderkammer"
+theme = "PaperMod"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[params]
+customCSS = ["css/custom.css"]  # apunta a tu archivo dentro de assets/css/
+

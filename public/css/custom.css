@@ -1,0 +1,24 @@
+/* Imagen flotante en la esquina inferior derecha */
+#portada-fondo {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 200px;
+  height: 200px;
+  pointer-events: none;
+  z-index: 9999;
+  opacity: 0.8;
+  transition: transform 0.3s ease, filter 0.3s ease;
+}
+
+/* Animación al pasar el ratón */
+#portada-fondo:hover {
+  transform: translateY(-2px) rotate(-1deg);
+}
+
+/* Modo noche automático */
+@media (prefers-color-scheme: dark) {
+  #portada-fondo {
+    filter: invert(1);
+  }
+}
