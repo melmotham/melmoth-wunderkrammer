@@ -1,4 +1,4 @@
-baseURL = "https://example.org/"
+baseURL = "https://melmothswunderkrammer.netlify.app/"
 languageCode = "en-us"
 title = "melmoth's wunderkammer"
 theme = "PaperMod"
