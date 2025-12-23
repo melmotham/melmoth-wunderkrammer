@@ -1,13 +1,10 @@
 ---
-title: "Willingness to Play: Rolling the Dice in **Disco Elysium** and Georges Bataille"
+title: "Willingness to Play: Rolling the Dice in Disco Elysium and Georges Bataille"
 author: "Alejandro Mardones"
 date: 2025-12-24
-tags:
-  - *Disco Elysium*
-  - Georges Bataille
-  - Philosophy
-  - Game Studies
+draft: false
 ---
+
 
 *Editorial note*
 
