@@ -9,3 +9,8 @@ unsafe = true
 [params]
 customCSS = ["css/custom.css"]  # apunta a tu archivo dentro de assets/css/
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      footnote = true
+      

@@ -6,13 +6,10 @@ draft: false
 ---
 
 
-*Editorial note*
+*This text is my own english translation of an article originally published in* Mardones de la Fuente, A. (2025). Voluntad de jugar: tirar los dados en Disco Elysium y Georges Bataille. *Laocoonte. Revista De Estética Y Teoría De Las Artes*, (12), 141–155. https://doi.org/10.7203/laocoonte.i12.31125
 
-*This text is the author’s own english translation of an article originally published in* **Laocoonte. Revista de Estética y Teoría de las Artes**. *The present version is made available on this blog in order to reach a broader international readership.*
 
-**Reference**
 
-Mardones, A. (2024). *Willingness to play: rolling the dice in *Disco Elysium* and Georges Bataille*. **Laocoonte. Revista de Estética y Teoría de las Artes**, 12. https://doi.org/10.7203/laocoonte.i12.31125
 
 ---
 
@@ -51,7 +48,9 @@ In this sense, Bataille’s philosophy offers a conceptual framework for approac
 During the course of the investigation, the player may encounter Neha, a dice maker who sells handmade dice for role-playing games. The meta-narrative dimension of this discreet side quest is not the only element relevant to this article; several of the conversations with Neha provide conceptual material that resonates directly with Georges Bataille’s theoretical framework. The encounter begins when the protagonist asks about the other businesses that once gave life to the small commercial area where she now works:
 
 > **YOU** — “You’re right, they should have tried harder. They had everything they needed to succeed.”
+>
 > **DICE MAKER** — “Even so, not everyone can do it.” She tosses a pair of dice onto the table; one of them stops close to the metal edge. “That’s how the game goes.”
+>
 > **PERCEPTION (SIGHT)** — The result is 1. On a 20-sided die. (ZA/UM, 2019)
 
 Throughout *Disco Elysium*, dice rolls function as a fundamental narrative and ludic device. Althought the player's reactions to this brief exchange may vary depending on which skill is activated at the time —since higher skill levels increase the frequency and intesity of ther inventions—all possible response articulate a shared stance: the fatalism inherent in rolling the dice. This violence of chance, of putting oneself at stake constitutes one of the central motifs of Georges Bataille’s philosophical thought. As he writes, “The leap is life, the reckoning is death. And if history stops, I die” (Bataille, 1972: 106).
@@ -67,8 +66,11 @@ The vitality implied by this constant risk gives rise to a multiplicity of meani
 A later dialogue with Neha makes this logic explicit:
 
 > **YOU** — “I’m sorry. I don’t know how to answer that. It’s entropy.”
+>
 > **DICE MAKER** — “Yes.” She looks out the window, barely listening. “Or maybe everyone’s cursed? It’s such a precarious place. Nothing ever turns out the way you want it to.”
+>
 > **DICE MAKER** — “That’s why people like role-playing games. You can be whoever you want. You can try again. Even so, there’s something inherently violent in rolling dice.”
+>
 > **DICE MAKER** — “It’s as if every time you roll a die, something disappears. Some alternate ending. Or a completely different world…” She lifts the dice and inspects them under the light. (ZA/UM, 2019)
 
 Role-playing must be understood from both sides of this operation. When a character is played, one virtual outcome is actualized and unfolds within the narrative. At the same time, rolling the dice irrevocably abolishes other possible worlds, abandoning unrealized paths and foreclosing alternative experiences. There is an irreducible violence in this gesture. As Bataille writes, “to live is to throw the dice wildly, but with no return” (2018: 200).
@@ -138,10 +140,15 @@ Rolling the dice presupposes an open self, and an open self inevitably seeks to 
 One particularly revealing scene occurs when the protagonist goes to sleep after his first day of police work. Depending on the player’s previous choices, the character may encounter a disturbing dream in which he recognizes his own face in the corpse discovered behind the Whirling-in-Rags hostel. The dialogue unfolds as follows:
 
 > **SWOLLEN CORPSE OF A DRUNK** — Do you remember this smell from your childhood?
+>
 > **YOU** — I don’t remember anything.
+>
 > **SWOLLEN CORPSE OF A DRUNK** — Do you remember your wife’s hand on your face?
+>
 > **YOU** — Tell me what’s going on! I won’t answer until you tell me who you are.
+>
 > **SWOLLEN CORPSE OF A DRUNK** — You know who I am. I am that bad day. That day when you asked her, and then wandered the streets… It’s the worst day ever, my dear Harry, and here it comes. She’ll hear it on the phone. Reality will become a grotesque nightmare. That was the last thing you did to her. Tell me: do you remember the love of your life?
+>
 > **YOU** — She left me. (ZA/UM, 2019)
 
 This exchange exemplifies a form of communication that cannot be reduced to the transmission of information. The interlocutor is neither fully other nor fully identical to the protagonist; it occupies a liminal position, emerging from within while confronting the self as something radically alien. Communication here is inseparable from exposure. The subject does not master meaning but is instead affected by it, wounded by it.
@@ -169,7 +176,9 @@ From this perspective, the protagonist of *Disco Elysium* does not merely suffer
 This desire reaches one of its most intense expressions in the dreamlike episode in which the figures of Dora and Dolores Dei merge. If, during an earlier mission, the player has interacted with a stained-glass window depicting Dolores Dei in an abandoned church, the possibility of a subsequent dream in which both figures converge becomes available. In that initial encounter, Kim attempts to draw the protagonist out of his absorption:
 
 > **KIM KITSURAGI** — Agent, you’ve been standing there for over five minutes…
+>
 > **KIM KITSURAGI** — What are you thinking about, if I may ask?
+>
 > **YOU** — She’s beautiful… (ZA/UM, 2019)
 
 Throughout *Disco Elysium*, numerous images communicate with the protagonist in an intense and unsettling manner, forcing an inner experience that exceeds ordinary discourse. As Noys observes in his reading of Bataille, “it was never a matter of personal contemplation, but of sharing with others through the image—the image as an opening to the Other” (Noys, 2000: 35). Here, the image does not refer to a closed interiority, but instead becomes a site of openness toward alterity, toward a form of meaning that is non-discursive yet profoundly affective. Harry is thus thrown into a mode of communication beyond language with Dora, and the scene in the church constitutes only one among many such moments.
@@ -194,43 +203,77 @@ This existential horizon finds one of its clearest formulations in Bataille’s 
 
 ## Bibliography
 Bataille, G. (1972). Sobre Nietzsche. Voluntad de suerte. Taurus.
+
 Bataille, G. (1986). La experiencia interior. Taurus.
+
 Bataille, G. (2018). Teoría de la religión y El culpable. Taurus.
+
 Bataille, G. (2023). El erotismo. Tusquets.
+
 Belmonte, J. (2021), The Hanged Rhizome on the Tree: Arborescence and Multiplicity in *Disco Elysium*, Baltic Screen Media Review, 9, 44-54.
+
 Berlantini, G. (2020). Texte et Contexte. Georgess Bataille Lecteur de Nietzsche dans la  Revue  Acéphale,  Nietzsche-Studien,  49(1),  197-215.  https://doi.org/10.1515/nietzstu-2020-0009
+
 Bodi, B., Thon, J. (2020). Playing stories?: Narrative-dramatic agency in Disco  Ely-sium(2019) and Astroneer(2019). Frontiers of  Narrative Studies, 6(2), 57-190.
+
 Christias, P. (2018). La politique d’éros comme volonté de chance. Georges Bataille sur Nietzsche. Sociétés, 141(3), 61-67.  https://doi.org/10.3917/soc.141.0061.
+
 Defernez, V. (2022). Faire l’exercice des possibles idéologiques: l’exemple de *Disco Elysium*, CRPG estonien. Université de Lorraine.
+
 Defernez, V. (2023). Espaces et discours politiques: «La Martinaise» et ses habitants, quartier de *Disco Elysium*. Université de Lorraine.
+
 García, M, (2018). Georges Bataille y Gilles Deleuze. Desde Nietzsche por una filoso-fía menor. Eikasia, 82, 137-158. 
-Jackson, G. (2019). *Disco Elysium* Developers Shout Out Marx And Engels In Game Awards  Victory  Speech,  en  Kotaku.  https://kotaku.com/disco-elysium-develo-pers-shout-out-marx-and-engels-1840403603.
+
+Jackson, G. (2019). *Disco Elysium* Developers Shout Out Marx And Engels In Game Awards  Victory  Speech,  en  Kotaku.  https://kotaku.com/
+disco-elysium-develo-pers-shout-out-marx-and-engels-1840403603.
+
 Khamis, D. (2024). *Disco Elysium*as Philosophy: Solipsism, Existentialism, and Simu-lacra. En Kowalski, D. (Ed.) The Palgrave Handbook of  Popular Culture as Philosophy. Palgrave Macmillan.
+
 Kłosiński, M. (2021). The Object Gives Rise to Thought: Hermeneutics of Objects in *Disco Elysium*. Baltic Screen Media Review, 9, 57-66.
+
 Maqbool,  S.  (2024).  “Disco-Oriented  Hauntology”,  en  Anderson,  J.  &  White,  C. (Eds.) «Reading *Disco Elysium*», special issue, Post45.
+
 Mckeown, C. (2021). What kind of cop are you?: *Disco Elysium*’s Technologies of the Self within the Posthuman Multiverse, Baltic Screen Media Review, 9, 68-79. https://doi.org/10.2478/bsmr-2021-0007.
+
 Medvedeva, A. (2022). Urban Shivers: Recording Actual Space in *Disco Elysium*. Ga-lactica Media, 4(3), 157-175.
-Meier, M. (2024). «Sunrise, Parabellum». The crisis of the state and the individual in *Disco Elysium*. En Mochocki, M. et al (Eds.). Central and Eastern European Histories and Heritages in Video Games. Routledge.
+
+Meier, M. (2024). «Sunrise, Parabellum». The crisis of the state and the individual in *Disco Elysium*. En Mochocki, M. et al (Eds.). Central and Eastern European Histories and Heritages in Video 
+Games. Routledge.
+
 Moldes, V. (2022). El videojuego como agitprop. *Disco Elysium* como caso de análisis, Univer-sitat Politècnica de València. 
+
 Nichols, F. (2024). Welcome to Revachol: *Disco Elysium* as virtual dark tourism. En N. Sharma, A. Martini, D. Timothy (eds.) Critical Theories in Dark Tourism. De Gruyter
+
 Nietzsche, F. (1997). Más allá del bien y del mal. Preludio a una filosofía del futuro. Alianza.
+
 Nietzsche, F. (2000), La voluntad de poder. EDAF.
+
 Nietzsche, F. (2003). Así habló Zaratustra. Alianza.
+
 Nietzsche, F. (2005). Ecce homo. Cómo se llega a ser lo que se es. Alianza. 
+
 Novitz, J. (2021). *Disco Elysium* as Gothic Fiction. Baltic Screen Media Review, 9, 33-41
+
 Noys, B. (2000). Georges Bataille. A critical introduction. Pluto Press. 
+
 Toth, H. (2024). Bad Reading/Bad Gaming, en J. Anderson & C. White (Eds.), «Rea-ding *Disco Elysium*», special issue, Post45.
+
 Shin, S. (2024). *Disco Elysium* and the intersection of interactivity and interpassivity. Jump Cut: A Review of  Contemporary Media, 62.
+
 Vela, D. (2021). “You Won’t Even Know Who You Are Anymore”: Bakthinian Poly-phony and the Challenge to the Ludic Subject in *Disco Elysium*, Baltic Screen Media Review, 9, 90-104. https://doi.org/10.2478/bsmr-2021-0009 
+
 ZA/UM. (2019). *Disco Elysium*, PC
 
 
 ---
 
 ## Notes
-[^1] The title won all four awards for which it was nominated: "Best Narrative," "Best Independent Game," "Best Role-Playing Game," and "New Indie Game."
-[^2] We are not the first to link *Disco Elysium* with eminently philosophical issues. First, we must highlight the works that have connected the Estonian title with video game studies, addressing issues such as player agency through a complex system of options: Bodi, B., & Thon, J. (2020). Playing Stories?: Narrative-Dramatic Agency in *Disco Elysium* (2019) and Astro-neer (2019). Frontiers of Narrative Studies, 6(2), 57–190. We can also highlight those that deal with the relationship between passivity and activity when constructing subjectivity in video games: Shin, S. (2024). *Disco Elysium* and the Intersection of Interactivity and Interpassivity. Jump Cut: A Review of Contemporary Media, 62. Likewise, Moldes’ research, which draws on Gonzalo Frasca, explores the possibility of presenting video games as a tool for agitation and propaganda, presenting *Disco Elysium* as a paradigmatic case: Moldes, V. (2022). Video Games as Agitprop: *Disco Elysium* as a Case Study, Polytechnic University of Valencia.
+[^1]: The title won all four awards for which it was nominated: "Best Narrative," "Best Independent Game," "Best Role-Playing Game," and "New Indie Game."
+
+[^2]: We are not the first to link *Disco Elysium* with eminently philosophical issues. First, we must highlight the works that have connected the Estonian title with video game studies, addressing issues such as player agency through a complex system of options: Bodi, B., & Thon, J. (2020). Playing Stories?: Narrative-Dramatic Agency in *Disco Elysium* (2019) and Astro-neer (2019). Frontiers of Narrative Studies, 6(2), 57–190. We can also highlight those that deal with the relationship between passivity and activity when constructing subjectivity in video games: Shin, S. (2024). *Disco Elysium* and the Intersection of Interactivity and Interpassivity. Jump Cut: A Review of Contemporary Media, 62. Likewise, Moldes’ research, which draws on Gonzalo Frasca, explores the possibility of presenting video games as a tool for agitation and propaganda, presenting *Disco Elysium* as a paradigmatic case: Moldes, V. (2022). Video Games as Agitprop: *Disco Elysium* as a Case Study, Polytechnic University of Valencia.
 Secondly, we can look at works that focus even more closely on specific political or philosophical issues. Regarding the spatiality and physical elements of the *Disco Elysium* universe, such as interaction with objects in the virtual world: Kłosiński, M. (2021). The Object Gives Rise to Thought: Hermeneutics of Objects in *Disco Elysium*. Baltic Screen Media Review, 9, 57–66. On the dark and Gothic atmosphere of the urban space: Novitz, J. (2021). *Disco Elysium* as Gothic Fiction. Baltic Screen Media Review, 9, 33–41; Nichols, F. (2024). Welcome to Revachol: *Disco Elysium* as Virtual Dark Tourism. In N. Sharma, A. Martini, D. Timothy (Eds.), Critical Theories in Dark Tourism. De Gruyter; Medvedeva, A. (2022). Urban Shivers: Recording Actual Space in *Disco Elysium*. Galactica Media, 4(3), 157–175. On the political significance of different spaces through which the main character travels: Defernez, V. (2023). Espaces et discours politiques: "La Martinaise" et ses habitants, quartier de *Disco Elysium*. University of Lorraine.
 Some research has drawn direct connections to key thinkers or philosophical concepts, further highlighting the philosophical discourse of *Disco Elysium*: Khamis, D. (2024). *Disco Elysium* as Philosophy: Solipsism, Existentialism, and Simulacra. In Kowalski, D. (Ed.), The Palgrave Handbook of Popular Culture as Philosophy. Palgrave Macmillan. Belmonte, J. (2021). The Hanged Rhizome on the Tree: Arborescence and Multiplicity in *Disco Elysium*. Baltic Screen Media Review, 9, 44–54. Meier, M. (2024). “Sunrise, Parabellum”: The Crisis of the State and the Individual in *Disco Elysium*. In Mochocki, M. et al. (Eds.), Central and Eastern European Histories and Heritages in Video Games. Routledge. In these works by Khamis, Belmonte, and Meier, 18th-century German idealism, French existentialism, and poststructuralist notions of rhizome or subject are directly related to video game characters, mechanics, and sometimes specific dialogues of some of the skills that guide our progress. Issues such as hauntology, reflecting the radical amnesia of our protagonist and the revolutionary past of the city of Revachol: Maqbool, S. (2024). Disco-Oriented Hauntology. In J. Anderson & C. White (Eds.), Reading *Disco Elysium*, special issue, Post45, 1. As well as the attempt to map the different political ideologies that populate the texts of *Disco Elysium* and their relationships to each other: Defernez, V. (2022). Faire l’exercice des possibles idéologiques: l’exemple de *Disco Elysium*, CRPG estonien. Université de Lorraine, have also received considerable attention from academia.
-[^3] As Saad Maqbool points out in relation to the probabilities of success in *Disco Elysium*'s dice rolls: "Even so, no matter their skill level, there is only ever a maximum of 97% chance of success: double one on the virtual dice roll is always a miss; double six is always a pass. With the ever-present chance of failure (and the unpredictability of what 'success' might even look like), levelling a skill does not guarantee mastery over any of the game's systems" (2024: 6).
-[^4]For further discussion on the logic of "and, and, and" and the relationship between the Estonian video game and Deluze and Guattari's image of the rhizome, see the article cited in the introduction: Belmonte, J. (2021), The Hanged Rhizome on the Tree: Arborescence and Multiplicity in *Disco Elysium*, Baltic Screen Media Review, 9, 44-54.
+
+[^3]: As Saad Maqbool points out in relation to the probabilities of success in *Disco Elysium*'s dice rolls: "Even so, no matter their skill level, there is only ever a maximum of 97% chance of success: double one on the virtual dice roll is always a miss; double six is always a pass. With the ever-present chance of failure (and the unpredictability of what 'success' might even look like), levelling a skill does not guarantee mastery over any of the game's systems" (2024: 6).
+
+[^4]: For further discussion on the logic of "and, and, and" and the relationship between the Estonian video game and Deluze and Guattari's image of the rhizome, see the article cited in the introduction: Belmonte, J. (2021), The Hanged Rhizome on the Tree: Arborescence and Multiplicity in *Disco Elysium*, Baltic Screen Media Review, 9, 44-54.
